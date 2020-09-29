@@ -1,0 +1,10 @@
+.flex{
+    display: flex;
+}
+.flexItem{
+    align-items:space-around;
+}
+.cardRow{
+    padding-top: 5vw;
+    padding-left: 2vw;
+}
